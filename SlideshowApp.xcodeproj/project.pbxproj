@@ -14,6 +14,9 @@
 		85183BA22036CD5D00C0F5D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85183BA02036CD5D00C0F5D1 /* LaunchScreen.storyboard */; };
 		85183BAD2036CD5D00C0F5D1 /* SlideshowAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85183BAC2036CD5D00C0F5D1 /* SlideshowAppTests.swift */; };
 		85183BB82036CD5D00C0F5D1 /* SlideshowAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85183BB72036CD5D00C0F5D1 /* SlideshowAppUITests.swift */; };
+		85183BC62036D0F100C0F5D1 /* 5D853BF6-81A1-11DF-88B7-F2385CF189A3_l.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 85183BC52036D0F100C0F5D1 /* 5D853BF6-81A1-11DF-88B7-F2385CF189A3_l.jpg */; };
+		85183BC82036D2D300C0F5D1 /* images-2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 85183BC72036D2D200C0F5D1 /* images-2.jpeg */; };
+		85183BCA2036D2E100C0F5D1 /* images-3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 85183BC92036D2E100C0F5D1 /* images-3.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		85183BB32036CD5D00C0F5D1 /* SlideshowAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SlideshowAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		85183BB72036CD5D00C0F5D1 /* SlideshowAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SlideshowAppUITests.swift; sourceTree = "<group>"; };
 		85183BB92036CD5D00C0F5D1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		85183BC52036D0F100C0F5D1 /* 5D853BF6-81A1-11DF-88B7-F2385CF189A3_l.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "5D853BF6-81A1-11DF-88B7-F2385CF189A3_l.jpg"; path = "../../../../Downloads/DESIGN/さとうれいなさん/5D853BF6-81A1-11DF-88B7-F2385CF189A3_l.jpg"; sourceTree = "<group>"; };
+		85183BC72036D2D200C0F5D1 /* images-2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "images-2.jpeg"; path = "../../../../Downloads/DESIGN/さとうれいなさん/images-2.jpeg"; sourceTree = "<group>"; };
+		85183BC92036D2E100C0F5D1 /* images-3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "images-3.jpeg"; path = "../../../../Downloads/DESIGN/さとうれいなさん/images-3.jpeg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +103,9 @@
 		85183B962036CD5D00C0F5D1 /* SlideshowApp */ = {
 			isa = PBXGroup;
 			children = (
+				85183BC92036D2E100C0F5D1 /* images-3.jpeg */,
+				85183BC72036D2D200C0F5D1 /* images-2.jpeg */,
+				85183BC52036D0F100C0F5D1 /* 5D853BF6-81A1-11DF-88B7-F2385CF189A3_l.jpg */,
 				85183B972036CD5D00C0F5D1 /* AppDelegate.swift */,
 				85183B992036CD5D00C0F5D1 /* ViewController.swift */,
 				85183B9B2036CD5D00C0F5D1 /* Main.storyboard */,
@@ -233,8 +242,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				85183BA22036CD5D00C0F5D1 /* LaunchScreen.storyboard in Resources */,
+				85183BCA2036D2E100C0F5D1 /* images-3.jpeg in Resources */,
 				85183B9F2036CD5D00C0F5D1 /* Assets.xcassets in Resources */,
+				85183BC62036D0F100C0F5D1 /* 5D853BF6-81A1-11DF-88B7-F2385CF189A3_l.jpg in Resources */,
 				85183B9D2036CD5D00C0F5D1 /* Main.storyboard in Resources */,
+				85183BC82036D2D300C0F5D1 /* images-2.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
